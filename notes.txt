@@ -17,3 +17,8 @@ c. small blast radius
 d. even faster startup & shutdown
 e. lightweight enough to use in development
 
+
+Linux building blocks:
+  a. namespaces: isolation of resources
+    example: cgroups, IPC, Network, PID, UTS, User, Time, Mount
+  b.
