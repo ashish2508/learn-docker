@@ -1,0 +1,19 @@
+--bare metal:
+    low utilization efficy
+    slow start up & shut down speed
+    very slow provisioning and decommissioning
+
+containers:
+  
+  desktop container platforms: to manage container images/lifecycle
+                      docker
+                      podman
+  Container runtimes:
+                  containerD
+                  cri-o
+a. no dependency conflicts
+b. even better utilization efficiency
+c. small blast radius
+d. even faster startup & shutdown
+e. lightweight enough to use in development
+
