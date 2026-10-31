@@ -1,3 +1,7 @@
+*{
+  background-color: #e3eee8;
+  color: #000000;
+}
 #root {
   max-width: 1280px;
   margin: 0 auto;
@@ -11,7 +15,7 @@
   will-change: filter;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #3e44b6aa);
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
