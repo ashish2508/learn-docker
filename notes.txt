@@ -17,7 +17,11 @@ c. small blast radius
 d. even faster startup & shutdown
 e. lightweight enough to use in development
 
-
+--docker volume: mounting a directory from the host into the container
+  a. persistent data storage
+  b. sharing data between containers
+  c. sharing data between host and container
+  
 Linux building blocks:
   a. namespaces: isolation of resources
     example: cgroups, IPC, Network, PID, UTS, User, Time, Mount
